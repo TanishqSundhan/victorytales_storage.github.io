@@ -1,6 +1,4 @@
-# Laurel
-
-A landing page template.
+A landing page of VictoryTales Media Storage space.
 
 * [Getting started](#getting-started)
 
